@@ -39,7 +39,7 @@
 <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3YzVnZm5nand3cHNsZ2Izb3JydTNrcHZ3cm5nYWhkYzg1czQzMWhpcCZlcD12MV9zdGlja2Vyc19yZWxhdGVkJmN0PXM/3ohhwznSVuwXu6RnEY/giphy.gif" width=100% height=10>
 <!-- Reference: https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3YzVnZm5nand3cHNsZ2Izb3JydTNrcHZ3cm5nYWhkYzg1czQzMWhpcCZlcD12MV9zdGlja2Vyc19yZWxhdGVkJmN0PXM/3ohhwznSVuwXu6RnEY/giphy.gif -->
 
-<h3 align="center">I guess you might want to know the tools I work with?</h3>
+<h3 align="center">Maybe you’d like to know the tools I work with?</h3>
 
 <div align="center">
     <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXFxMmFrY2thbTN1aGo5YTVnZGNscmJtcW9mdzI3dmZ6MGk2NnQxMiZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/nJ2UiWBL5UyX6anGIN/giphy.gif" height=75 width=150>
