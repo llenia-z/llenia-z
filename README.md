@@ -82,14 +82,13 @@
   <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white"/>
   <img src="https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white"/>
   <img src="https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black"/>
+  <img src="https://img.shields.io/badge/MATLAB-0076A8?logo=MATLAB&logoColor=white"/>
 
   <!-- AI -->
   <img src="https://img.shields.io/badge/OpenAI%20API-412991?logo=openai&logoColor=white"/>
   <img src="https://img.shields.io/badge/Gemini%20API-4285F4?logo=google&logoColor=white"/>
   <img src="https://img.shields.io/badge/Azure%20AI-0078D4?logo=microsoftazure&logoColor=white"/>
   <img src="https://img.shields.io/badge/LangChain-000000"/>
-  <img src="https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/pandas-150458?logo=pandas&logoColor=white"/>
   <img src="https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white"/>
 
   <!-- tools -->
