@@ -21,8 +21,6 @@
   <h3>I swear I know what's going on.<img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3eXIwdDFqZmliNmtmczRvMm51cTd0OHM4ZzJtNTFwZTFpZjNhNTRwOSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/cgBvlKklNHlZAXpqP4/giphy.gif" height=50></h3>
   <h3>(…yeah, no.)<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHd4eWtoZ2Z1ZDNyc3hjNDRyam55ZmtrODBrMDJxMmIxcGR3emlpcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/MjAZuzbaRPiXB2hc7d/giphy.gif" height=50></h3>
   <h3>Anyway, I try to not crash anything...<img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3bHkzM2RhczZ6bHhpaGRjeGlmMzRvdDU5b2Z1OGJ6NzJzYXF2ODU3MiZlcD12MV9zdGlja2Vyc19yZWxhdGVkJmN0PXRz/lMmgteIlYQyous3k1b/giphy.gif" height=50></h3>
-
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXFxMmFrY2thbTN1aGo5YTVnZGNscmJtcW9mdzI3dmZ6MGk2NnQxMiZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/nJ2UiWBL5UyX6anGIN/giphy.gif" height=75 width=150>
   
   <h3>Now you know a bit about me!<img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3YjE5aGV0NTl0aGx6MXczNG5oNnJ1NTM4bTJzbTh4eHU0OHlqY2I2NyZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/aotWWaGrXuNuo/giphy.gif" height=50></h3>
   <h3>I guess we're friends now!<img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3MGJ3dWp2NGYybm11ZnY4cjlrbDVyeHg3amoweHhjZnF1eHJ6bHo4OCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/UhODKA04OkFYZTwich/giphy.gif" height=50></h3>
@@ -42,10 +40,7 @@
 <h3 align="center">I guess you might want to know my usual work buddies?</h3>
 
 <div align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdW5lNndsdmFlN20wOGVuanZlczFsZWJ6djd4ZGUzeHBqOWppcGwzayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3D6A6QBdMoNSwGpIYl/giphy.gif" height=100 width=250>
-</div>
-<div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3bmxjYWp5ZnY3cnE5dXo4azd0ZmhueGhmYjY4cTFla2lvaDRwMWdyOCZlcD12MV9zdGlja2Vyc19yZWxhdGVkJmN0PXM/IbmF5WFsoY1LwzEQAK/giphy.gif" height=25 width=100%>
+    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXFxMmFrY2thbTN1aGo5YTVnZGNscmJtcW9mdzI3dmZ6MGk2NnQxMiZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/nJ2UiWBL5UyX6anGIN/giphy.gif" height=75 width=150>
 </div>
 
 <!-- <h3 align="center">💻 Tech Stack</h3> -->
@@ -121,3 +116,10 @@
   <img src="https://img.shields.io/badge/Adobe-DA1F26?logo=adobe&logoColor=white"/>
 
 </p>
+
+<div align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3YWpncTVwY29pejBnejZucnQxdDRra3h4dXN4d3JiNG0zNzY1ZnIxdiZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/xaLEY5xbxAAyE6UBth/giphy.gif" height=50>
+</div>
+<div align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3c3g1NTExZ3drcjg5aGMycGwxdzd0NjR3YTFiZ2d4YmsybHF2emlnMiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/LndB6H5wjQPomk2njp/giphy.gif" height=200>
+</div>
