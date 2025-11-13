@@ -39,9 +39,6 @@
 <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3YzVnZm5nand3cHNsZ2Izb3JydTNrcHZ3cm5nYWhkYzg1czQzMWhpcCZlcD12MV9zdGlja2Vyc19yZWxhdGVkJmN0PXM/3ohhwznSVuwXu6RnEY/giphy.gif" width=100% height=10>
 <!-- Reference: https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3YzVnZm5nand3cHNsZ2Izb3JydTNrcHZ3cm5nYWhkYzg1czQzMWhpcCZlcD12MV9zdGlja2Vyc19yZWxhdGVkJmN0PXM/3ohhwznSVuwXu6RnEY/giphy.gif -->
 
-<img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3YzVnZm5nand3cHNsZ2Izb3JydTNrcHZ3cm5nYWhkYzg1czQzMWhpcCZlcD12MV9zdGlja2Vyc19yZWxhdGVkJmN0PXM/3ohhwznSVuwXu6RnEY/giphy.gif" width=100% height=10>
-<!-- Reference: https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3YzVnZm5nand3cHNsZ2Izb3JydTNrcHZ3cm5nYWhkYzg1czQzMWhpcCZlcD12MV9zdGlja2Vyc19yZWxhdGVkJmN0PXM/3ohhwznSVuwXu6RnEY/giphy.gif -->
-
 <h3 align="center">I guess you might want to know my usual work buddies?</h3>
 
 <div align="center">
