@@ -23,8 +23,6 @@
   <h3>Anyway, I try to not crash anything...<img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3bHkzM2RhczZ6bHhpaGRjeGlmMzRvdDU5b2Z1OGJ6NzJzYXF2ODU3MiZlcD12MV9zdGlja2Vyc19yZWxhdGVkJmN0PXRz/lMmgteIlYQyous3k1b/giphy.gif" height=50></h3>
 </div>
 
-<a href="https://www.textstudio.com/"> </a>
-
 <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3YzVnZm5nand3cHNsZ2Izb3JydTNrcHZ3cm5nYWhkYzg1czQzMWhpcCZlcD12MV9zdGlja2Vyc19yZWxhdGVkJmN0PXM/3ohhwznSVuwXu6RnEY/giphy.gif" width=100% height=10>
 
 <p align="center"></p>
@@ -34,11 +32,10 @@
 </p> 
 <!-- Reference: https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2Z4MW9iam9reHUyZm52bzN4OWV5Y2Jvc3F1eWlnN2lhbmVmeHVueSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/3PBjGPqMTXT2g/giphy.gif -->
 
-### 🛠️ Tools I play with
-
 <!-- <h3 align="center">💻 Tech Stack</h3> -->
 <p align="center">
-
+  <!-- <p></p> -->
+    
   <!-- Languages -->
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Java-007396?logo=openjdk&logoColor=white"/>
