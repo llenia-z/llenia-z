@@ -10,37 +10,7 @@
 
 <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3YzVnZm5nand3cHNsZ2Izb3JydTNrcHZ3cm5nYWhkYzg1czQzMWhpcCZlcD12MV9zdGlja2Vyc19yZWxhdGVkJmN0PXM/3ohhwznSVuwXu6RnEY/giphy.gif" width=100% height=10>
 <!-- Reference: https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3YzVnZm5nand3cHNsZ2Izb3JydTNrcHZ3cm5nYWhkYzg1czQzMWhpcCZlcD12MV9zdGlja2Vyc19yZWxhdGVkJmN0PXM/3ohhwznSVuwXu6RnEY/giphy.gif -->
-
-<div align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExanZkaGg5ZHoyd241ZWd6dnRiaWs3eHIzMXd0N2QyaTB2NG9pdGdpNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xUNd9ZaUiYDzDltKDe/giphy.gif" height=200>
-</div>
-<!-- Reference: https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExanZkaGg5ZHoyd241ZWd6dnRiaWs3eHIzMXd0N2QyaTB2NG9pdGdpNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xUNd9ZaUiYDzDltKDe/giphy.gif -->
-
-<div align="center">
-  <h3>I am a developer.<img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3aTl6dWpicDA0ZnQwbm11Yjd4Z2d0OGZ3bTg0em40cHN1bHdiZzV4NCZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/fByehYIrOIzO8XolJK/giphy.gif" height=50></h3>
-  <h3>Also a photographer.<img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3c2prcG83ZjZ2dnZobWZsaWsxNDlkb2l1anJqaHU3dXEwYmo4eHI4NSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/rNSTPmArCHAmdkVn47/giphy.gif" height=50></h3>
-  <h3>Coffee is my daily medicine.<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWt3aHo0cmg5Z241MjNkdjA5am94eTNtaTlpaTR6c3dld294ejIxNSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/pEuD18F5xjR9SNVmYz/giphy.gif" height=50></h3>
-  <h3>I swear I know what's going on.<img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3eXIwdDFqZmliNmtmczRvMm51cTd0OHM4ZzJtNTFwZTFpZjNhNTRwOSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/cgBvlKklNHlZAXpqP4/giphy.gif" height=50></h3>
-  <h3>(…yeah, no.)<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHd4eWtoZ2Z1ZDNyc3hjNDRyam55ZmtrODBrMDJxMmIxcGR3emlpcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/MjAZuzbaRPiXB2hc7d/giphy.gif" height=50></h3>
-  <h3>Anyway, I try to not crash anything...<img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3bHkzM2RhczZ6bHhpaGRjeGlmMzRvdDU5b2Z1OGJ6NzJzYXF2ODU3MiZlcD12MV9zdGlja2Vyc19yZWxhdGVkJmN0PXRz/lMmgteIlYQyous3k1b/giphy.gif" height=50></h3>
-  
-  <h3>Now you know a bit about me!<img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3YjE5aGV0NTl0aGx6MXczNG5oNnJ1NTM4bTJzbTh4eHU0OHlqY2I2NyZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/aotWWaGrXuNuo/giphy.gif" height=50></h3>
-  <h3>I guess we're friends now!<img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3MGJ3dWp2NGYybm11ZnY4cjlrbDVyeHg3amoweHhjZnF1eHJ6bHo4OCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/UhODKA04OkFYZTwich/giphy.gif" height=50></h3>
-</div>
-<!-- Reference: https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3aTl6dWpicDA0ZnQwbm11Yjd4Z2d0OGZ3bTg0em40cHN1bHdiZzV4NCZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/fByehYIrOIzO8XolJK/giphy.gif -->
-<!-- Reference: https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3c2prcG83ZjZ2dnZobWZsaWsxNDlkb2l1anJqaHU3dXEwYmo4eHI4NSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/rNSTPmArCHAmdkVn47/giphy.gif -->
-<!-- Reference: https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWt3aHo0cmg5Z241MjNkdjA5am94eTNtaTlpaTR6c3dld294ejIxNSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/pEuD18F5xjR9SNVmYz/giphy.gif -->
-<!-- Reference: https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3eXIwdDFqZmliNmtmczRvMm51cTd0OHM4ZzJtNTFwZTFpZjNhNTRwOSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/cgBvlKklNHlZAXpqP4/giphy.gif -->
-<!-- Reference: https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHd4eWtoZ2Z1ZDNyc3hjNDRyam55ZmtrODBrMDJxMmIxcGR3emlpcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/MjAZuzbaRPiXB2hc7d/giphy.gif -->
-<!-- Reference: https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3bHkzM2RhczZ6bHhpaGRjeGlmMzRvdDU5b2Z1OGJ6NzJzYXF2ODU3MiZlcD12MV9zdGlja2Vyc19yZWxhdGVkJmN0PXRz/lMmgteIlYQyous3k1b/giphy.gif -->
-<!-- Reference: https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3YjE5aGV0NTl0aGx6MXczNG5oNnJ1NTM4bTJzbTh4eHU0OHlqY2I2NyZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/aotWWaGrXuNuo/giphy.gif -->
-<!-- Reference: https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3MGJ3dWp2NGYybm11ZnY4cjlrbDVyeHg3amoweHhjZnF1eHJ6bHo4OCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/UhODKA04OkFYZTwich/giphy.gif -->
-
-<img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3YzVnZm5nand3cHNsZ2Izb3JydTNrcHZ3cm5nYWhkYzg1czQzMWhpcCZlcD12MV9zdGlja2Vyc19yZWxhdGVkJmN0PXM/3ohhwznSVuwXu6RnEY/giphy.gif" width=100% height=10>
-<!-- Reference: https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3YzVnZm5nand3cHNsZ2Izb3JydTNrcHZ3cm5nYWhkYzg1czQzMWhpcCZlcD12MV9zdGlja2Vyc19yZWxhdGVkJmN0PXM/3ohhwznSVuwXu6RnEY/giphy.gif -->
-
-<h3 align="center">Maybe you’d like to know the tools I work with?</h3>
-
+ 
 <div align="center">
     <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXFxMmFrY2thbTN1aGo5YTVnZGNscmJtcW9mdzI3dmZ6MGk2NnQxMiZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/nJ2UiWBL5UyX6anGIN/giphy.gif" height=75 width=150>
 </div>
